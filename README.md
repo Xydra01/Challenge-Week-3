@@ -10,6 +10,8 @@ To use the app simply load up the code in a browser and you will be presented wi
 
 ![alt text](assets/images/Employee_Payroll_Tracker_Demo.gif)
 
+Feel free to try out the app here: https://xydra01.github.io/Week-3-Employee-Payroll-Tracker/
+
 ## License
 
 Refer to LICENSE.MD
